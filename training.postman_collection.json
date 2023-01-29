@@ -14,8 +14,11 @@
 						"exec": [
 							"pm.test(\"Busqueda en la empresa: \"+pm.iterationData.get(\"name\"), function () {",
 							" var words = [\"ASISTENTE LEGAL\", \"ABOGAD\", \"PROCURAD\", \"ASESOR LEGAL\", \"AUXILIAR LEGAL\"];",
+							"",
+							" //var words = [\"ASESOR\"];",
 							"    var found = words.some(word => pm.response.text().toUpperCase().indexOf(word) !== -1);",
 							"    pm.expect(found).to.be.true;",
+							"    console.log(\"------------ > HAY ALGÚN PUESTO VACANTE EN '\"+ pm.iterationData.get(\"name\") +\"', link: \"+ pm.iterationData.get(\"url\") )",
 							"});",
 							"",
 							"",
@@ -39,6 +42,16 @@
 				}
 			],
 			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "AQW9cqSYtlA-9wGH2_kK9V4tOKbVJLCJjf7Bb5J8dwcjbAYRBEnO7OL-v7M33WR_ZSXH9iQB-3jDItQMTZaPVtOVcIPezWqIjB63aNbiFF_CnVJ4uObo6BNFY_xkrfaGi8ZYdxppkLl6mFfDdZSkN3VIVsklVeJh4_SBkhLtL9Ep8JUcUvyLEJoHtZrbj8vlEG0YgmClewP7l5jKjqHN8CRTeXw_NMXF87zCmJM_D1oZGTH8tFKe1y83vZj8byjtvSX8wfER_ajojpG8Y5-Ub7AHHa5aAI_-syzxlAFmt-FvCjwTnCqaUKiII3XA9-7Ew0vwtwesuBup8mTZDxSzqZe7BJoB0g",
+							"type": "string"
+						}
+					]
+				},
 				"method": "GET",
 				"header": [],
 				"url": {
