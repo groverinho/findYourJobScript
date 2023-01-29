@@ -14,9 +14,12 @@
 						"exec": [
 							"pm.test(\"Busqueda en la empresa: \"+pm.iterationData.get(\"name\"), function () {",
 							" var words = [\"ASISTENTE LEGAL\", \"ABOGAD\", \"PROCURAD\", \"ASESOR LEGAL\", \"AUXILIAR LEGAL\"];",
-							"    var found = words.some(word => pm.response.text().indexOf(word) !== -1);",
+							"    var found = words.some(word => pm.response.text().toUpperCase().indexOf(word) !== -1);",
 							"    pm.expect(found).to.be.true;",
 							"});",
+							"",
+							"",
+							"",
 							"",
 							"",
 							"",
