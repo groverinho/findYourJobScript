@@ -13,7 +13,7 @@
 					"script": {
 						"exec": [
 							"pm.test(\"Busqueda en la empresa: \"+pm.iterationData.get(\"name\"), function () {",
-							" var words = [\"ASISTENTE LEGAL\", \"ABOGAD\", \"PROCURAD\", \"ASESOR LEGAL\", \"AUXILIAR LEGAL\"];",
+							" var words = [\"ASISTENTE LEGAL\", \"ABOGAD\", \"PROCURAD\", \"ASESOR LEGAL\", \"AUXILIAR LEGAL\", \"AUXILIAR DE PROCURADURÍA\", \"LICENCIADO EN DERECHO\", \"ESPECIALISTA LEGAL\"];",
 							"",
 							" //var words = [\"ASESOR\"];",
 							"    var found = words.some(word => pm.response.text().toUpperCase().indexOf(word) !== -1);",
