@@ -2,12 +2,16 @@
 Script to find an specific job in a collections of websites
 
 ## **How to Work**<br />
-* Import collection and enviroment to postman <br />
+* Import collection and environment to postman <br />
 * Once both files are imported, click on *training* collection <br />
 * Click on Run button
 * Click on *Select File* 
 * Select the **data.cvs** file
 * Click on *Run training*
+
+## **How to find an specific job**<br />
+* Open the *finding* environment
+* Edit the *jobs* variable (if you want to search for more than one, separate the words with comma)
 
 ## **How to Check the results**<br />
 There are two ways to check results:
