@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "7bded3a2-aa4a-4c79-b397-c5ca2d4aaac0",
+		"_postman_id": "797a5820-566c-43ec-bd7b-a42ec02a6799",
 		"name": "training",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -12,21 +12,14 @@
 					"listen": "test",
 					"script": {
 						"exec": [
-							"pm.test(\"Busqueda en la empresa: \"+pm.iterationData.get(\"name\"), function () {",
-							" var words = [\"ASISTENTE LEGAL\", \"ABOGAD\", \"PROCURAD\", \"ASESOR LEGAL\", \"AUXILIAR LEGAL\", \"AUXILIAR DE PROCURADURÍA\", \"LICENCIADO EN DERECHO\", \"ESPECIALISTA LEGAL\"];",
-							"",
-							" //var words = [\"ASESOR\"];",
-							"    var found = words.some(word => pm.response.text().toUpperCase().indexOf(word) !== -1);",
+							"pm.test(\"Busqueda en la empresa: \" + pm.iterationData.get(\"name\"), function () {",
+							"    let words = pm.environment.get(\"jobs\");",
+							"    words = words.split(\",\")",
+							"    //console.log(pm.response.text());",
+							"    let found = words.some(word => pm.response.text().toUpperCase().indexOf(word) !== -1);",
 							"    pm.expect(found).to.be.true;",
-							"    console.log(\"------------ > HAY ALGÚN PUESTO VACANTE EN '\"+ pm.iterationData.get(\"name\") +\"', link: \"+ pm.iterationData.get(\"url\") )",
-							"});",
-							"",
-							"",
-							"",
-							"",
-							"",
-							"",
-							""
+							"    console.log(\"------------ > HAY ALGÚN PUESTO VACANTE EN '\" + pm.iterationData.get(\"name\") + \"', link: \" + pm.iterationData.get(\"url\"))",
+							"});"
 						],
 						"type": "text/javascript"
 					}
@@ -42,16 +35,6 @@
 				}
 			],
 			"request": {
-				"auth": {
-					"type": "bearer",
-					"bearer": [
-						{
-							"key": "token",
-							"value": "",
-							"type": "string"
-						}
-					]
-				},
 				"method": "GET",
 				"header": [],
 				"url": {
