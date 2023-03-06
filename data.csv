@@ -1,8 +1,11 @@
 url,name,type
+https://www.trabajopolis.bo/search-results-jobs/?action=search&listing_type%5Bequal%5D=Job&listings_order_by=desc&JobCategory%5Bmulti_like%5D%5B%5D=Legal+y+Asesor%C3%ADa&CityBolivia%5Bmulti_like%5D%5B%5D=&PostedWithin%5Bmulti_like%5D%5B%5D=&EmploymentType%5Bmulti_like%5D%5B%5D=&keywords%5Bany_words%5D=,trabajopolis, Clasificados
+https://clasificados.eldeber.com.bo/buscar?texto=legal,El deber,Clasificados
+https://trabajando.com.bo/trabajo/santa-cruz?buscar=legal,trabajando.com,buscador de trabajos
 https://bcpbolivia.evaluar.com/jm-ajax/get_listings/,BCP,Banco
 https://www.bdp.com.bo/trabaja-con-nosotros/,Banco de Desarrollo Productivo S.A.M.,Banco
 https://www.evaluatest.com/bancobisa/Evaluate/IUEvaluacion/bancobisaBolsaTrabajo.asp,BISA,Banco
-https://alianzaseguros.evaluar.com/jm-ajax/get_listings/,Alianza Seguros,Compañía de Seguros
+https://alianzaseguros.evaluar.com/jm-ajax/get_listings/,Alianza Seguros,CompaÃ±Ã­a de Seguros
 https://jobs.avianca.com/search/,Avianca,Aereolinea
 https://sofia.com.bo/unete-a-nuestro-equipo/oportunidad-profesional/,Avicola Sofia,Avicola
 https://www.evaluatest.com/banconacionaldebolivia/evaluate/IUEvaluacion/BancoNacionalDeBoliviaBolsaTrabajo.asp,BNB,Banco
@@ -10,9 +13,9 @@ https://trabajaconnosotros.santacruzfg.com/convocatorias?term=legal&branch=&loca
 https://cbn.gupy.io/,CBN,Cerveceria
 https://embol.evaluar.com/jm-ajax/get_listings/,Embol Coca-Cola,Embotelladora
 https://gcs-storage.airavirtual.com/public/feeds/aira_farmacorp.json?_=1643673932889,Farmacorp,Salud
-https://bagobolivia.evaluar.com/jm-ajax/get_listings/,Laboratorios Bagó,Salud
+https://bagobolivia.evaluar.com/jm-ajax/get_listings/,Laboratorios BagÃ³,Salud
 https://lbcseguros.evaluar.com/jm-ajax/get_listings/,LBC,Seguros
-https://www.nestle.com.bo/es/buscar-trabajos/area-de-carrera/legal,Nestlé,Nutricion
+https://www.nestle.com.bo/es/buscar-trabajos/area-de-carrera/legal,NestlÃ©,Nutricion
 https://tigo.wd3.myworkdayjobs.com/tigocareers/5/refreshFacet/318c8bb6f553100021d223d9780d30be,Tigo,Comunicacion
 https://careers.unilever.es/search-jobs/results?ActiveFacetID=3923057&CurrentPage=1&RecordsPerPage=12&Distance=50&RadiusUnitType=0&Keywords=&Location=&ShowRadius=False&IsPagination=False&CustomFacetName=&FacetTerm=&FacetType=0&FacetFilters%5B0%5D.ID=3923057&FacetFilters%5B0%5D.FacetType=2&FacetFilters%5B0%5D.Count=1&FacetFilters%5B0%5D.Display=Bolivia&FacetFilters%5B0%5D.IsApplied=true&FacetFilters%5B0%5D.FieldName=&SearchResultsModuleName=Search+Results&SearchFiltersModuleName=Search+Filters&SortCriteria=0&SortDirection=0&SearchType=5&PostalCode=&fc=&fl=&fcf=&afc=&afl=&afcf=,Unilever,Nutricion
 https://www.bg.com.bo/girhr-postulaciones/servlet/hbolsa_trabajo,Banco Ganadero,Banco
@@ -21,11 +24,11 @@ https://reclutatalentos.ypfb.gob.bo/,YPFB,Hidrocarburos
 http://sms.obairlines.bo/BoAInstitucional/Home/Convocatorias/2,BOA,Aereolinea
 https://www.ypfblogistica.com.bo/index.php/talento-humano/convocatorias-publicas,YPFB,Combustibles
 https://www.fo.com.bo/convocatoria/default.aspx,Empresa Ferroviaria Oriental S.A.,Ferroviaria
-https://talento.inti.com.bo/web/index.php,Droguería Inti S.A.,Industria farmacéutica
-https://duralit.com/ofertas-de-empleo/,Duralit S.A.,Construcción
-"https://g3.minerasancristobal.com/trabajo/,Compañía Minera Celeste Ltda. (*),""Zinc, plata y otros"""
+https://talento.inti.com.bo/web/index.php,DroguerÃ­a Inti S.A.,Industria farmacÃ©utica
+https://duralit.com/ofertas-de-empleo/,Duralit S.A.,ConstrucciÃ³n
+"https://g3.minerasancristobal.com/trabajo/,CompaÃ±Ã­a Minera Celeste Ltda. (*),""Zinc, plata y otros"""
 https://www.credinformsa.com/trabaja-con-nosotros/,Credinform,Seguros generales
-https://pilandina.evaluar.com/oportunidades-de-trabajo/,Industrias Pil Santa Cruz (*),Productos lácteos
+https://pilandina.evaluar.com/oportunidades-de-trabajo/,Industrias Pil Santa Cruz (*),Productos lÃ¡cteos
 https://gruporoda.evaluar.com/jm-ajax/get_listings/,RODA,GRUPO INDUSTRIAL
 https://bancosol.evaluar.com/jm-ajax/get_listings/,Banco SOL,Banco
 https://www.bancofie.com.bo/#/trabaja-con-nosotros,Banco Fie,Banco
@@ -34,7 +37,6 @@ https://www.prodem.bo/PageView?id=37,Banco Prodem,Banco
 https://grupofortaleza.evaluar.com/jm-ajax/get_listings/,Banco Fortaleza,Banco
 https://www.itacamba.com/rrhh/vacantes/,ITACAMBA,CEMENTERA
 https://clasificados.eldeber.com.bo/buscar?texto=legal,El deber,Clasificados
-https://www.trabajopolis.bo/search-results-jobs/?action=search&listing_type%5Bequal%5D=Job&listings_order_by=desc&JobCategory%5Bmulti_like%5D%5B%5D=&CityBolivia%5Bmulti_like%5D%5B%5D=&PostedWithin%5Bmulti_like%5D%5B%5D=&EmploymentType%5Bmulti_like%5D%5B%5D=&keywords%5Bany_words%5D=abogado,trabajopolis, Clasificados
 https://seleccion.etika.com.bo/index.php/convocatorias,ETIKA,Logistica
 https://trabajaconnosotros.santacruzfg.com/es-BO/convocatorias?termino=abogado,santacruzfg,Grupo financiero
 https://trabajaconnosotros.santacruzfg.com/es-BO/convocatorias?termino=legal,santacruzfg,Grupo financiero
@@ -59,12 +61,11 @@ https://embolvacantesinternas.evaluar.com/jm-ajax/get_listings/,EMBOL,Bebidas
 https://avanzza.evaluar.com/jm-ajax/get_listings/,AVANZZA,construccion
 https://www.dismac.com.bo/trabaja-con-nosotros,dismac,electrodomesticos
 https://www.bisa.com/trabaja-con-nosotros,banco bisa,banco
-https://trabajando.com.bo/trabajo/santa-cruz?buscar=legal,trabajando.com,buscador de trabajos
 https://www.opcionempleo.com/buscar/empleos?s=legal&l=Bolivia,opcion empleo,buscador de trabajos
 https://www.oportunidades.onu.org.bo/convocatorias/bids_dt?_=,onu,onu
 https://grupovenado.com/unete-al-equipo-grupo-venado/?_ciudad_de_trabajo=santa-cruz-de-la-sierra&_fecha=date_desc,grupo venado,abarrotes
 https://delizia.bo/talento-delizia/,delizia,helados
-https://www.axsbolivia.com/trabajaconaxs/,axs,telefon�a
+https://www.axsbolivia.com/trabajaconaxs/,axs,telefon’a
 https://www.linkedin.com/company/deltax-la/jobs/,deltax
 https://www.itacamba.com/jm-ajax/get_listings/,itacamba,cementera
 https://www.baneco.com.bo/institucional/trabaja-con-nosotros/ofertas-laborales,banco economico,banco
