@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "8e1f28aa-257f-4db4-9a01-c75f5efa435a",
+		"_postman_id": "bede006a-6cbf-48d5-a567-889bf4f8d97c",
 		"name": "training",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -24,7 +24,10 @@
 							"        }",
 							"    });",
 							"",
+							"    if(flag){",
 							"    console.log(`------------ > HAY ALGÚN PUESTO VACANTE EN '${pm.iterationData.get(\"name\")}' para los puestos de: '${foundWords.join(\", \")}' | link: ${pm.iterationData.get(\"url\")}`);",
+							"    }",
+							"",
 							"    pm.expect(flag).to.be.true;",
 							"});"
 						],
