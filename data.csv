@@ -1,6 +1,7 @@
 url,name,type
 https://www.trabajopolis.bo/search-results-jobs/?action=search&listing_type%5Bequal%5D=Job&listings_order_by=desc&JobCategory%5Bmulti_like%5D%5B%5D=Legal+y+Asesor%C3%ADa&CityBolivia%5Bmulti_like%5D%5B%5D=&PostedWithin%5Bmulti_like%5D%5B%5D=&EmploymentType%5Bmulti_like%5D%5B%5D=&keywords%5Bany_words%5D=,trabajopolis, Clasificados
 https://clasificados.eldeber.com.bo/buscar?texto=legal,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?texto=abogado,El deber,Clasificados
 https://trabajando.com.bo/trabajo/legales,trabajando.com,buscador de trabajos
 https://bo.mipleo.com/legal-asesoria/,mipleo,buscador de trabajos
 https://bcpbolivia.evaluar.com/jm-ajax/get_listings/,BCP,Banco
