@@ -1,9 +1,32 @@
 url,name,type
-https://www.trabajopolis.bo/search-results-jobs/?action=search&listing_type%5Bequal%5D=Job&listings_order_by=desc&JobCategory%5Bmulti_like%5D%5B%5D=Legal+y+Asesor%C3%ADa&CityBolivia%5Bmulti_like%5D%5B%5D=&PostedWithin%5Bmulti_like%5D%5B%5D=&EmploymentType%5Bmulti_like%5D%5B%5D=&keywords%5Bany_words%5D=,trabajopolis, Clasificados
-https://clasificados.eldeber.com.bo/buscar?texto=legal,El deber,Clasificados
-https://clasificados.eldeber.com.bo/contrata2?texto=abogado,El deber,Clasificados
-https://trabajando.com.bo/trabajo/legales,trabajando.com,buscador de trabajos
-https://bo.mipleo.com/legal-asesoria/,mipleo,buscador de trabajos
+https://www.trabajopolis.bo/search-results-jobs/?searchId=1680142779.85&action=search&page=1&listings_per_page=100,trabajopolis, Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=0,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=1,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=2,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=3,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=4,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=5,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=6,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=7,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=8,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=9,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=10,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=11,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=12,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=13,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=14,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=15,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=16,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=17,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=18,El deber,Clasificados
+https://clasificados.eldeber.com.bo/contrata2?page=19,El deber,Clasificados
+https://trabajando.com.bo/trabajo?buscar=&page=0,trabajando.com,buscador de trabajos
+https://trabajando.com.bo/trabajo?buscar=&page=1,trabajando.com,buscador de trabajos
+https://trabajando.com.bo/trabajo?buscar=&page=2,trabajando.com,buscador de trabajos
+https://trabajando.com.bo/trabajo?buscar=&page=3,trabajando.com,buscador de trabajos
+https://bo.mipleo.com/ofertas-de-trabajo/?pag=1,mipleo,buscador de trabajos
+https://bo.mipleo.com/ofertas-de-trabajo/?pag=2,mipleo,buscador de trabajos
+https://bo.mipleo.com/ofertas-de-trabajo/?pag=3,mipleo,buscador de trabajos
 https://bcpbolivia.evaluar.com/jm-ajax/get_listings/,BCP,Banco
 https://www.bdp.com.bo/trabaja-con-nosotros/,Banco de Desarrollo Productivo S.A.M.,Banco
 https://www.evaluatest.com/bancobisa/Evaluate/IUEvaluacion/bancobisaBolsaTrabajo.asp,BISA,Banco
@@ -62,7 +85,10 @@ https://embolvacantesinternas.evaluar.com/jm-ajax/get_listings/,EMBOL,Bebidas
 https://avanzza.evaluar.com/jm-ajax/get_listings/,AVANZZA,construccion
 https://www.dismac.com.bo/trabaja-con-nosotros,dismac,electrodomesticos
 https://www.bisa.com/trabaja-con-nosotros,banco bisa,banco
-https://www.opcionempleo.com/buscar/empleos?s=legal&l=Bolivia,opcion empleo,buscador de trabajos
+https://www.opcionempleo.com.bo/ofertas-empleo-bolivia-113784.html?p=1,opcion empleo,buscador de trabajos
+https://www.opcionempleo.com.bo/ofertas-empleo-bolivia-113784.html?p=2,opcion empleo,buscador de trabajos
+https://www.opcionempleo.com.bo/ofertas-empleo-bolivia-113784.html?p=3,opcion empleo,buscador de trabajos
+https://www.opcionempleo.com.bo/ofertas-empleo-bolivia-113784.html?p=4,opcion empleo,buscador de trabajos
 https://www.oportunidades.onu.org.bo/convocatorias/bids_dt?_=,onu,onu
 https://grupovenado.com/unete-al-equipo-grupo-venado/?_fecha=date_desc%2Cgrupo+venado%2Cabarrotes,grupo venado,abarrotes
 https://delizia.bo/talento-delizia/,delizia,helados
