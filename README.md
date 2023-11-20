@@ -9,6 +9,13 @@ Script to find an specific job in a collections of websites
 * Select the **data.cvs** file
 * Click on *Run training*
 
+There is another way to execute
+* Open your terminal
+* Go to the project
+* Run this command:
+`newman run training.postman_collection.json --reporter-htmlextra-export report-api_TestReport.html --environment=finding.postman_environment.json -d data.csv -r cli,htmlextra`
+
+
 ## **How to find an specific job**<br />
 * Open the *finding* environment
 * Edit the *jobs* variable (if you want to search for more than one, separate the words with comma)
