@@ -12,7 +12,7 @@ Script to find an specific job in a collections of websites
 There is another way to execute
 * Open your terminal
 * Go to the project
-* Run this command:
+* Run this command: <br />
 `newman run training.postman_collection.json --reporter-htmlextra-export report-api_TestReport.html --environment=finding.postman_environment.json -d data.csv -r cli,htmlextra`
 
 
